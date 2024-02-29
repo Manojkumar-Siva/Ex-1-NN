@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 <H3>NAME: PAUL ANDREW D</H3>
 <H3>REGISTER NO:212221230075</H3>
 <H3>EX. NO.1</H3>
 <H3>DATE</H3>
+=======
+<H3>NAME: MANOJ KUMAR S</H3>
+<H3>REGISTER NO: 212221230056</H3>
+<H3>EX NO:1</H3>
+<H3>DATE:</H3>
+>>>>>>> 056628e5ef5056282aa05407b84fb2bd36de9680
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
@@ -29,12 +36,12 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
-STEP 1:Importing the libraries<BR>
-STEP 2:Importing the dataset<BR>
-STEP 3:Taking care of missing data<BR>
-STEP 4:Encoding categorical data<BR>
-STEP 5:Normalizing the data<BR>
-STEP 6:Splitting the data into test and train<BR>
+STEP 1:  Importing the libraries<BR>
+STEP 2: Importing the dataset<BR>
+STEP 3: Taking care of missing data<BR>
+STEP 4: Encoding categorical data<BR>
+STEP 5: Normalizing the data<BR>
+STEP 6: Splitting the data into test and train<BR>
 
 ##  PROGRAM:
 ```py
@@ -71,6 +78,7 @@ print("\nLenght of X_test ",len(X_test))
 ```
 
 ## OUTPUT:
+<<<<<<< HEAD
 ### Dataset:
 ![Alt text](image.png)
 ### Null values:
@@ -79,13 +87,38 @@ print("\nLenght of X_test ",len(X_test))
 ![Alt text](image-2.png)
 ### Data after applying Min Max Scaling:
 ![Alt text](image-3.png)
+=======
+
+### Dataset:
+
+![Alt text](image.png)
+### Null values:
+![Alt text](image-1.png)
+
+### Duplicate Values:
+![Alt text](image-2.png)
+
+
+### Data after applying Min Max Scaling:
+![Alt text](image-3.png)
+
+>>>>>>> 056628e5ef5056282aa05407b84fb2bd36de9680
 ### Data Splitting:
 ### X data
 ![Alt text](image-4.png)
 ### Y data
 ![Alt text](image-5.png)
+<<<<<<< HEAD
 ### Train and Test Data:
 ![Alt text](image-6.png)
+=======
+
+### Train and Test Data:
+
+![Alt text](image-6.png)
+
+
+>>>>>>> 056628e5ef5056282aa05407b84fb2bd36de9680
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
 
